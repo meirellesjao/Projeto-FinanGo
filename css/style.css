@@ -90,3 +90,7 @@
     color: white;
     transition: transform 0.3s ease, background-color 0.3s ease;
 }
+
+#login-button:hover{
+  transform: scale(1.2);
+}
